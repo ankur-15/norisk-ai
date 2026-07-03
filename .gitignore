@@ -3,5 +3,6 @@ venv/
 __pycache__/
 *.pyc
 models/
-data/processed/
-data/raw/
+models_backup/
+data/
+README_backup.md
