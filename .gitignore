@@ -1,0 +1,8 @@
+.env
+venv/
+__pycache__/
+*.pyc
+models/
+models_backup/
+data/
+README_backup.md
