@@ -12,6 +12,7 @@ app_port: 7860
 An NLP system that classifies and analyzes legal contract clauses using a fine-tuned transformer model, with semantic search over contract text.
 
 **Live demo:** https://ankursingh1506-norisk-ai.hf.space/docs
+
 **Trained model:** https://huggingface.co/ankursingh1506/norisk-clause-classifier
 
 ---
